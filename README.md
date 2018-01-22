@@ -65,7 +65,7 @@ function twentyseventeen_init() {
 * `path`          - path to module file
 * `capability`    - user capability to restrict access for different user groups
 * `type`          - options type for database - theme_mod or options
-* `fonts_manager` - `CX_Fonts_Manager` instance to enqueue fonts (just pass a new empty instance - ```php 'fonts_manager' => new CX_Fonts_Manager()``` )
+* `fonts_manager` - `CX_Fonts_Manager` instance to enqueue fonts (just pass a new empty instance - `'fonts_manager' => new CX_Fonts_Manager()` )
 * `options`       - registered options array
 
 `options` is an associative array, key - is an option key for database. Each option in array must contain `type` property - control, section or panel (accordingly standard customizer methods). 
