@@ -59,7 +59,7 @@ function twentyseventeen_init() {
 }
 ```
 
-## Argumnets:
+## Arguments:
 `CX_Customizer` accepts an array of options with next structure:
 * `prefix`        - theme mod / option prefix
 * `path`          - path to module file
