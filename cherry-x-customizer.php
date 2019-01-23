@@ -2,7 +2,7 @@
 /**
  * Module to work with standard WordPress cutomizer
  *
- * Version: 1.0.0
+ * Version: 1.0.1
  */
 
 // If this file is called directly, abort.
